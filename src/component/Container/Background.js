@@ -18,7 +18,7 @@ const Background = () => {
           className="sea"
           placeholder="what do you want to learn? "
         />
-        <div class="body-sear">
+        <div className="body-sear">
           <img src={newsearch} alt={newsearch} />
         </div>
       </div>

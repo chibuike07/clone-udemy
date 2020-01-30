@@ -11,7 +11,7 @@ const Header = () => {
         <img
           src={udemy}
           alt="udemy"
-          // className="udim"
+          className="udim"
           style={{ width: "auto", height: "20px" }}
         />
         <div className="left">
