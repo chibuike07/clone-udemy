@@ -1,0 +1,49 @@
+.udy {
+  background-image: url("./bgudemy.jpeg");
+  height: 70vh;
+  background-size: cover;
+  display: flex;
+  color: #fff;
+  flex-direction: column;
+  justify-content: center;
+}
+.text {
+  margin-left: 7%;
+  font-size: large;
+  line-height: 1.5;
+}
+.text input {
+  width: 35%;
+  height: 7vh;
+  margin-top: 3%;
+  border: none;
+}
+.text h2 {
+  word-spacing: 5px;
+  font-size: 36px;
+}
+.text img {
+  width: 20%;
+  /* position: absolute;
+  top: 55.7%;
+  left: 37%; */
+}
+.text .body-sear {
+  /* width: -25px; */
+  position: absolute;
+  top: 52.5%;
+  left: 36%;
+  width: 4vw;
+  height: 8vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #000; */
+}
+.text .body-sear:hover {
+  background-color: rgb(128, 0, 0);
+}
+input[type="search"] {
+  padding-left: 3%;
+  outline: none;
+}
